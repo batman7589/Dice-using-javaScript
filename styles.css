@@ -1,0 +1,46 @@
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background: linear-gradient(300deg, #00bfff, #e8dcdd, #03ffb3);
+  animation: gradient-animation 18s ease infinite;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  
+  text-align: center;
+  margin-top: 170px;
+ 
+}
